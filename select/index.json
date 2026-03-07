@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "幸福論 (悦楽編)",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-03-07T19:28:17.533143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kōfukuron (Etsuraku-hen [幸福論(悦楽編)]",
+      "artist": "Ringo Sheena",
+      "has_synced": false,
+      "path": "select/01_Kōfukuron_(Etsuraku-hen_[幸福論(悦楽編)]_Ringo_Sheena.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幸福論 - 悦楽編",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/02_幸福論_-_悦楽編_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幸福論（悦楽編）",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/03_幸福論(悦楽編)_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幸福論 (悦楽編)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/04_幸福論_(悦楽編)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "幸福論(悦楽編)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/05_幸福論(悦楽編)_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸福論(悦楽編)",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_幸福論(悦楽編)_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "幸福論(悦楽編)",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_幸福論(悦楽編)_椎名_林檎.txt"
+    }
+  ]
+}
